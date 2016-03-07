@@ -7,7 +7,7 @@ public class RandomWords {
 	    generate("luca");
 	    generate("matt");
 	    generate("glen");
-	    generate("mina");
+	    generate("saltbush");
 
 	    System.out.println("Took " + (System.currentTimeMillis() - time) + " ms");
 	}
